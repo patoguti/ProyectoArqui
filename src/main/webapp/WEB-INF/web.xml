@@ -8,7 +8,9 @@
     <jsp-config>
         <jsp-property-group>
             <display-name>header and footer</display-name>
-            <url-pattern>/*</url-pattern>
+            <url-pattern>/login.jsp</url-pattern>
+            <url-pattern>/dashboard.jsp</url-pattern>
+            <url-pattern>/index.jsp</url-pattern>
             <include-prelude>/jspf/header.jspf</include-prelude>
         </jsp-property-group>
     </jsp-config>

@@ -1,0 +1,14 @@
+
+.fondo-1 {
+    background-color: #5cb85c;
+    color: #00000f;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.fondo-2 {
+    background-color: #428bca; /* Dark Blue */
+    color: #ffffff;
+}
